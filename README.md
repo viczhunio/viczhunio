@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi I'm Victoria! ( ^_^)／
 
 <!--
-**viczhunio/viczhunio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**viczhunio/viczhunio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+🎓 Computer Science Student @ CUNY Queens College (Class of 2028)  
+💻 Building projects and eager to collaborate  
+🌎 Fluent in English & Spanish  
+😄 Pronouns: She/Her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me 
+I'm a sophmore CS major passionate about creating practical applications and expanding skills. 
+Currently exploring web development and bioinformatics. 
+
+## 🛠️ Tech Stack
+**Languages:** C++, Java, HTML/CSS, JavaScript  
+**Tools:** Git, VS Code, Microsoft 365  
+**Currently Learning:** Data Structures, Algorithms
+
+## 🌱Current Projects
+ **Afterschool Registration Website**: Building a responsive website for an afterschool program
+- More projects coming soon!
+
+## 📫 Let's Connect
+**Email:** viczhunio@gmail.com
