@@ -18,7 +18,8 @@ Currently exploring web development and bioinformatics.
 **Currently Learning:** Data Structures, Algorithms
 
 ## 🌱Current Projects
- **Afterschool Registration Website**: Building a responsive website for an afterschool program
+ **Afterschool Registration Website:** Building a responsive website for an afterschool program
+ **Itch.io Game Off 2025:** Upcoming competition to code a game project. 
 - More projects coming soon!
 
 ## 📫 Let's Connect
