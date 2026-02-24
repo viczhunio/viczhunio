@@ -19,7 +19,7 @@ Currently exploring web development and bioinformatics.
 
 ## 🌱Current Projects
  **Afterschool Registration Website:** Building a responsive website for an afterschool program   
- **Itch.io Game Off 2025:** Upcoming competition to code a game project. 
+ **Health Timeline Management Application:** Help organize health data such as medications and appointments.  
 - More projects coming soon!
 
 ## 📫 Let's Connect
