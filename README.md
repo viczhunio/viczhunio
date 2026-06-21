@@ -1,8 +1,8 @@
 ## Hi I'm Victoria! ( ^_^)／
 
-🎓 **Computer Science Student** @ CUNY Queens College (Class of 2028)  
-💼 **Secretary** @ ColorStack & Girls Who Code (QC Chapters)
-💻 Building projects and eager to collaborate  
+🎓 **Computer Science Student** @ CUNY Queens College (Class of 2028)            
+💼 **Secretary** @ ColorStack & Girls Who Code (QC Chapters)                   
+💻 Building projects and eager to collaborate         
 🌎 **Languages:** Fluent in English & Spanish | Learning Italian 🇮🇹               
 🌷 **Pronouns:** She/Her
 
@@ -11,7 +11,7 @@
 ## About Me 
 I'm an incoming Junior CS major passionate about about creating practical, impactful software and expanding my technical horizons. Right now, I'm diving deep into intermediate web development, artificial intelligence, and building tools that solve real-world problems.
 
-* 📚 Currently leveling up via **CodePath** (Intermediate Web Development & Intro to AI Engineering)
+* 📚 Currently leveling up via **CodePath** (Intermediate Web Development & Intro to AI Engineering)           
 
 ---
 
@@ -34,12 +34,12 @@ I'm an incoming Junior CS major passionate about about creating practical, impac
 ---
 
 ## 🌱Current Projects
-* 🍳 **Lively-Pantry (In Progress):** A smart web application where users upload their available kitchen ingredients to generate creative recipe ideas. Features include recipe exploration and a personalized virtual cookbook for saving favorite dishes.
-* 🏫 **Afterschool Registration Website:** Building a responsive website for an afterschool program
-* 📅 **Health Timeline Management Application:** Help organize health data such as medications and appointments.  
-- More projects coming soon!
+* 🍳 **Lively-Pantry (In Progress):** A smart web application where users upload their available kitchen ingredients to generate creative recipe ideas. Features include recipe exploration and a personalized virtual cookbook for saving favorite dishes.     
+* 🏫 **Afterschool Registration Website:** Building a responsive website for an afterschool program     
+* 📅 **Health Timeline Management Application:** Help organize health data such as medications and appointments.     
+- More projects coming soon!          
 
 ---
 
 ## 📫 Let's Connect
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/victoria-z-129647281/]
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/victoria-z-129647281/]               
