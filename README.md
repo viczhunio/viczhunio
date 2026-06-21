@@ -3,7 +3,7 @@
 🎓 **Computer Science Student** @ CUNY Queens College (Class of 2028)  
 💼 **Secretary** @ ColorStack & Girls Who Code (QC Chapters)
 💻 Building projects and eager to collaborate  
-🌎 **Languages:** Fluent in English & Spanish | Learning Italian 🇮🇹
+🌎 **Languages:** Fluent in English & Spanish | Learning Italian 🇮🇹               
 🌷 **Pronouns:** She/Her
 
 ---
