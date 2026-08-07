@@ -34,8 +34,11 @@ I'm an incoming Junior CS major passionate about about creating practical, impac
 ---
 
 ## 🌱Current Projects
-* 🍳 **Lively-Pantry (In Progress):** A smart web application where users upload their available kitchen ingredients to generate creative recipe ideas. Features include recipe exploration and a personalized virtual cookbook for saving favorite dishes.     
-* 🏫 **Afterschool Registration Website:** Building a responsive website for an afterschool program     
+* 🏛️ **Mythostack | React, Supabase, CSS3**
+  * Interactive mythology platform featuring community discussion boards, dynamic content feeds, and backend database integration.
+* 🤖 **AI System Evaluation & Applied Engineering:**
+  * Conducting rigorous quality analysis, multimodal dataset benchmarking, and error evaluation to improve LLM accuracy, formatting alignment, and instruction-following.
+* 🍳 **Lively-Pantry (In Progress):** A smart web application where users upload their available kitchen ingredients to generate creative recipe ideas. Features include recipe exploration and a personalized virtual cookbook for saving favorite dishes.      
 * 📅 **Health Timeline Management Application:** Help organize health data such as medications and appointments.     
 - More projects coming soon!          
 
